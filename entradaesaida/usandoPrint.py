@@ -1,4 +1,4 @@
-print("Meu nome completo é Caroline Gonçalves")
+print("Meu nome completo é Caroline Gonçalves ")
 print("Tenho 28 anos")
 print("Meu salário é R$ 2000")
 print("Minha profissão: \"Professora\"")
