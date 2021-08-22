@@ -1,0 +1,7 @@
+# a = int(input("Digite o valor do número inteiro a: "))
+a = int(input())
+# b = int(input("Digite o valor do número inteiro b: "))
+b = int(input())
+c = (a+b)
+# print ("O valor da soma entre os inteiros a e b é: " + c)
+print (c)
